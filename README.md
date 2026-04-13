@@ -1,4 +1,4 @@
-# ⚡ Vikramaditya N
+# ⚡ Nishant Arya
 
 <p align="center">
 Biotech Researcher • Writer • Psychology Strategist
@@ -11,8 +11,8 @@ I study minds — from honeybees to humans.
 ---
 
 ## 🧠 About Me
-- Researching **cognition & behavior in honeybees** 🐝  
-- Exploring **neural asymmetry, stress, and learning**  
+- Researching **cognition & behavior in honeybees to humans** 🐝  
+- Exploring **cognition, neural networks and learning**  
 - Writing books: *Navi: Nights Without You* & *Alone Wolf*  
 - Building systems in **psychology, biology, and influence**
 
@@ -36,7 +36,7 @@ I study minds — from honeybees to humans.
 ---
 
 ## 🌐 Live Website
-👉 https://yourusername.github.io
+👉 https://brainsecrets.hub.github.io
 
 ---
 
@@ -60,8 +60,8 @@ HTML • CSS • GitHub Pages
 ---
 
 ## 📩 Connect
-- Instagram: @mysterious.edition  
-- Email: yourmail@gmail.com  
+- Instagram: @brainsecrets.hub  
+- Email: nishantarya.edu@gmail.com  
 
 ---
 
